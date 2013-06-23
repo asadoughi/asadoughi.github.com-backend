@@ -11,14 +11,14 @@ import time
 # Data about this site
 BLOG_AUTHOR = "Amir Sadoughi"
 BLOG_TITLE = "Prince Honest"
+BLOG_TWITTER = "princehonest"
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://www.princehonest.com"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."
+BLOG_DESCRIPTION = "Amir Sadoughi's blog"
 
 # Nikola is multilingual!
 #
@@ -247,7 +247,7 @@ THEME = 'monospace'
 # THEME_REVEAL_CONGIF_TRANSITION = 'cube' # You can also use: page/concave/linear/none/default
 
 # date format used to display post dates. (str used by datetime.datetime.strftime)
-# DATE_FORMAT = '%Y-%m-%d %H:%M'
+DATE_FORMAT = '%Y-%m-%d'
 
 # FAVICONS contains (name, file, size) tuples.
 # Used for create favicon link like this:
@@ -272,8 +272,8 @@ THEME = 'monospace'
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>'
-CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
+CONTENT_FOOTER = 'blog by <a href="http://twitter.com/{twitter}">{author}</a>. built on <a href="http://nikola.ralsina.com.ar">Nikola</a>.'
+CONTENT_FOOTER = CONTENT_FOOTER.format(twitter=BLOG_TWITTER,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year)
 
@@ -316,7 +316,7 @@ DISQUS_FORUM = False
 
 # Enable Addthis social buttons?
 # Defaults to true
-# ADD_THIS_BUTTONS = True
+ADD_THIS_BUTTONS = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10

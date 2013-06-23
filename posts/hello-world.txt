@@ -5,4 +5,4 @@
 .. title: Hello, world!
 .. slug: hello-world
 
-Write your post here.
+This is my first post on Nikola!
