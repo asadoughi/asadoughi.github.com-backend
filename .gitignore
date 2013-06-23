@@ -1,2 +1,4 @@
 *.pyc
 *~
+cache
+.doit.db.db
