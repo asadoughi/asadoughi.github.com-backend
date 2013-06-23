@@ -14,7 +14,7 @@ BLOG_TITLE = "Prince Honest"
 BLOG_TWITTER = "princehonest"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://www.princehonest.com"
+SITE_URL = "http://blog.princehonest.com"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
