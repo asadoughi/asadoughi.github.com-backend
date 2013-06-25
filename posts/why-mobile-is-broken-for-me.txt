@@ -1,0 +1,61 @@
+.. link:
+.. description:
+.. tags: mobile, future
+.. date: 2013/06/23 00:08:18
+.. title: Why mobile is broken for me
+.. slug: why-mobile-is-broken-for-me
+
+Today I walk around with me three things on my person: a wallet, a smartphone,
+and a set of keys. Why can't these three things all be the same device? In
+addition, I pay to carry a mobile hotspot around as a separate device sometimes.
+Why can't I use my phone as a mobile hotspot regularly with real unlimited data?
+The former problem is an innovation problem. The latter is a service problem.
+
+A Virtual Keyring
+-----------------
+
+Sure, by now, you have heard of Lockitron, August, or similar technologies
+built around the home keyhole. Last time I checked, I have more keys on my
+keyring than just my apartment key.
+
+I also have a car key and a postbox key. For the car, companies like Viper have
+come up with an app that can lock and unlock your car over a cellular network.
+This does not seem like the future I want. How hard would it be to emulate a
+key fob radio physically in a phone? Could phones have software-defined radios?
+
+Secondly, with the postbox key, granted, I live in an apartment so most
+homeowners probably don't have a postbox key. I could also do without physical
+mail if I signed up for a service like Outbox, but that comes with its own set
+of problems.
+
+A keyring should be an app on my phone, that's all I am saying.
+
+A Mobile Wallet
+---------------
+
+Next, for the wallet, I carry membership cards, gift cards, debit/credit cards,
+ID cards, and sometimes cash. Credit cards are already being eaten away by the
+likes of ISIS and Square. Insurance cards and membership cards I probably could
+store as photos assuming the vendor allows me to type in the ID number. Some
+member cards, like Starbucks, are already pure digital apps.
+
+The biggest obstacle that I'm not aware of being solved any time soon is the
+digitalization of ID cards. Effectively, the government would have to rely on a
+certain level of security and ubiquity to allow for digital IDs. While it might
+introduce new problems, the problem of fake IDs as it exists now could be
+eradicated.
+
+Mobile Internet Service
+-----------------------
+
+So, now I have my wallet and keyring in my phone, what's next? Well, how about
+Internet service? Do you have a landline or wireless service? I currently carry
+wireless service through Clear. Clear operates over Sprint's networks. So, why
+can't I have my phone operate as an unlimited data mobile hotspot on Sprint if
+I can already do that by carrying around an extra hotspot? It doesn't make sense
+to me.
+
+----
+
+These are all small, solvable modern problems. A decade from now I look forward
+to this technology becoming obsolete. We'll see where we're headed next then.
