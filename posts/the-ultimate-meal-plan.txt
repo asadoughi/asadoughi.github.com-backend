@@ -1,0 +1,75 @@
+.. link:
+.. description:
+.. tags: fitness, nutrition
+.. date: 2014/02/03 22:42:20
+.. title: The ultimate meal plan?
+.. slug: the-ultimate-meal-plan
+
+What would be the ultimate meal plan? It all depends on you, the individual, what your goals are, and what foods work for you. However, one thing that should not be controversial is the necessity for vitamins and essential minerals (micronutrients) your body needs to function day in and day out. In the meal plan I am about to discuss, I'll describe the constraints and goals for my situation and how I was able to come up with a meal plan that covers all of my bases.
+
+Background
+----------
+Eating a variety of food sources should be a sufficient source of vitamins and minerals. I've heard this plenty of times, but I have never seen it put into practice. Am I really getting an adequate diet? Well, I was tired of paying hundreds of dollars over the span of a calendar year on supplements, so I decided to come up with a meal plan I could eat every day, no problem, focusing on unprocessed whole foods.
+
+* Gender: Male
+* Age: 24 years old
+* Height: 5'7"
+* Target weight: 155 lbs
+* Weight at start of diet: 164 lbs
+
+Personal conditions
+-------------------
+* Lactose semi-intolerant. Over time, I've decreased my intake of milk and my digestive system doesn't seem to process lactose like it used to.
+* Desire fit, muscular body type over skinny, runner body type: protein intake close to 1g/lb
+* Cut down on fructose, minimize sugar
+* Require RDA of all micronutrients, up to tolerable UL of toxicity
+
+Some research
+-------------
+* Dr. Oz Eat Your Vitamins One Sheet
+* Interactive DRI Tables
+* USDA database
+
+The meal plan
+-------------
+### Breakfast
+* 2 slices, whole wheat, toasted
+* 1 organic egg, scrambled
+* 3 tbsp organic egg white, scrambled
+* 8 fl oz almond milk
+
+### Morning snack
+* 1 medium banana
+
+### Lunch
+* 2 oz spinach, raw
+* 4 oz chicken breast, grilled
+* 125 g brown rice, cooked
+* 1/4 of medium avocado
+* 1 roma tomato
+
+### Afternoon snack
+* 1 cup of carrots (approximately 128 g)
+* 1 oz hummus (28 g)
+
+### Pre-workout
+* 100 g orange
+
+### Post-workout
+* 8 fl oz almond milk
+
+### Dinner
+* 1 cup broccoli (approximately 91 g)
+* 5 oz wild sockeye salmon
+* 125 g brown rice, cooked
+
+### Night snack
+* 225 g greek yogurt
+
+Putting it into practice
+------------------------
+I've been eating this meal every week for over the past four weeks. Combined with my fitness plan, I've lost approximately 1 lb/week, measuring in at 160 lbs before bed and 158 lbs after waking up.
+
+Where to go next?
+-----------------
+It's pragmatic to eat the same thing every day, but not necessarily the most rewarding. I'm working on a meal planning algorithm to help vary my diet. Check out the Github repo here <https://github.com/asadoughi/mealplanner>. Currently, it's just a collection of scripts until I settle down on a feasible algorithm.
