@@ -99,7 +99,10 @@ NAVIGATION_LINKS = {
         ('/rss.xml', 'RSS', 'icon-rss'),
         ('http://princehonest.com', 'About me', 'icon-user'),
         ('https://twitter.com/princehonest', 'My Twitter', 'icon-twitter'),
+        ('https://fb.com/asadoughi', 'My Facebook', 'icon-facebook'),
+        ('https://linkedin.com/in/asadoughi', 'My LinkedIn', 'icon-linkedin'),
         ('https://github.com/asadoughi', 'My Github', 'icon-github'),
+        ('mailto:me@princehonest.com', 'My E-mail', 'icon-envelope'),
         ),
     }
 
