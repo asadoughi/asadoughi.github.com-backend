@@ -93,14 +93,18 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 # (the same way you would do with a (translatable) setting.)
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    ),
-}
+        ('/index.html', 'Home', 'icon-home'),
+        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+        ('/categories/index.html', 'Tags', 'icon-tags'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
+        ('http://princehonest.com', 'About me', 'icon-user'),
+        ('https://twitter.com/princehonest', 'My Twitter', 'icon-twitter'),
+        ('https://github.com/asadoughi', 'My Github', 'icon-github'),
+        ),
+    }
 
 # Name of the theme to use.
-THEME = "monospace"
+THEME = "zen"
 
 # Below this point, everything is optional
 
